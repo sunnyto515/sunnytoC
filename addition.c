@@ -19,7 +19,7 @@ total = num1 + num2;
 printf("Result is %d",total);
 
 printf("supanut jangchudjai");
-printf("M")
+printf("test taxt")
 //----------------สิ้นสุดโปรแกรม--------
 }
 
